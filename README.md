@@ -6,7 +6,7 @@ trailer.
 ## Installation
 Assuming you have installed Git:
 
-`git clone http://github.com/denseleznev/`
+`git clone https://github.com/denseleznev/movies.git`
 
 ## Usage
 Inside the folder `movies` run the following code:
