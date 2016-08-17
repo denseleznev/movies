@@ -11,9 +11,11 @@ Assuming you have installed Git, run the following code:
 ## Usage
 
 Using `cd` command change the directory to `movies`:
+
 `cd movies`
 
 Run the following code:
+
 `python2 entertainment_center.py`
 
 The script will then generate HTML page which will automatically open in a
