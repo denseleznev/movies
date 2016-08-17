@@ -4,18 +4,16 @@ favorite movies, including box art imagery and ability to watch YouTube
 trailer.
 
 ## Installation
-Assuming you have installed Git:
+Assuming you have installed Git, run the following code:
 
 `git clone https://github.com/denseleznev/movies.git`
 
 ## Usage
 
 Using `cd` command change the directory to `movies`:
-
 `cd movies`
 
 Run the following code:
-
 `python2 entertainment_center.py`
 
 The script will then generate HTML page which will automatically open in a
